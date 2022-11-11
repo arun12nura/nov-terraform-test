@@ -16,7 +16,7 @@ variable "hw" {
 
 variable "name" {
   type = string
-  default = "arun-server1"
+  default = "arun-web-server1"
   description = "Enter your server name"
 }
 
