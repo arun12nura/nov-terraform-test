@@ -10,7 +10,7 @@ variable "image" {
 
 variable "hw" {
   type = string
-  default = "t2.nano"
+  default = "t2.micro"
   description = "Enter your hardware model"
 }
 
